@@ -1,0 +1,17 @@
+com\literalura\app\LiteraluraApplication.class
+com\literalura\app\repository\AutorRepository.class
+com\literalura\app\util\GutendexClient.class
+com\literalura\app\service\AutorService.class
+com\literalura\app\service\LivroService.class
+com\literalura\app\service\AutorServiceImpl.class
+com\literalura\app\exception\GlobalExceptionHandler.class
+com\literalura\app\controller\LivroController.class
+com\literalura\app\dto\LivroDTO.class
+com\literalura\app\repository\LivroRepository.class
+com\literalura\app\dto\AutorDTO.class
+com\literalura\app\controller\AutorController.class
+com\literalura\app\model\Autor.class
+com\literalura\app\model\Idioma.class
+com\literalura\app\exception\ErroResposta.class
+com\literalura\app\model\Livro.class
+com\literalura\app\exception\ResourceNotFoundException.class

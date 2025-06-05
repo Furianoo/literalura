@@ -1,0 +1,17 @@
+C:\Users\furia\Desktop\literalura\src\main\java\com\literalura\app\controller\AutorController.java
+C:\Users\furia\Desktop\literalura\src\main\java\com\literalura\app\controller\LivroController.java
+C:\Users\furia\Desktop\literalura\src\main\java\com\literalura\app\dto\AutorDTO.java
+C:\Users\furia\Desktop\literalura\src\main\java\com\literalura\app\dto\LivroDTO.java
+C:\Users\furia\Desktop\literalura\src\main\java\com\literalura\app\exception\ErroResposta.java
+C:\Users\furia\Desktop\literalura\src\main\java\com\literalura\app\exception\GlobalExceptionHandler.java
+C:\Users\furia\Desktop\literalura\src\main\java\com\literalura\app\exception\ResourceNotFoundException.java
+C:\Users\furia\Desktop\literalura\src\main\java\com\literalura\app\LiteraluraApplication.java
+C:\Users\furia\Desktop\literalura\src\main\java\com\literalura\app\model\Autor.java
+C:\Users\furia\Desktop\literalura\src\main\java\com\literalura\app\model\Idioma.java
+C:\Users\furia\Desktop\literalura\src\main\java\com\literalura\app\model\Livro.java
+C:\Users\furia\Desktop\literalura\src\main\java\com\literalura\app\repository\AutorRepository.java
+C:\Users\furia\Desktop\literalura\src\main\java\com\literalura\app\repository\LivroRepository.java
+C:\Users\furia\Desktop\literalura\src\main\java\com\literalura\app\service\AutorService.java
+C:\Users\furia\Desktop\literalura\src\main\java\com\literalura\app\service\AutorServiceImpl.java
+C:\Users\furia\Desktop\literalura\src\main\java\com\literalura\app\service\LivroService.java
+C:\Users\furia\Desktop\literalura\src\main\java\com\literalura\app\util\GutendexClient.java
